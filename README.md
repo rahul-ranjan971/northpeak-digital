@@ -2,8 +2,8 @@
 
 This is a responsive one-page website for a fictional digital agency, "NorthPeak Digital", built as a qualification task for Digital Heroes.
 
-Live Demo: [ADD AFTER DEPLOYMENT]
-GitHub: [ADD AFTER PUSHING]
+Live Demo: Not deployed yet
+GitHub: https://github.com/rahul-ranjan971/northpeak-digital
 
 ## Project Overview
 
